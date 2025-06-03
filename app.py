@@ -1,3 +1,3 @@
 import streamlit as st
-# (Insert your full working app code here based on the canvas)
-# This is a placeholder for full app.py code used in production
+# (You would paste your full final app.py content here from canvas)
+# This placeholder should match the version that worked in your Streamlit test
